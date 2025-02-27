@@ -1,0 +1,19 @@
+{
+    "research": [
+        {
+            "title": "Mechanisms of disease and disease resistance",
+            "picture": "src/assets/Mechanisms.png",
+            "description": "Lorem ipsum odor amet, consectetuer adipiscing elit. Ad hac praesent facilisi velit nascetur justo ad facilisis. Ut iaculis enim etiam pellentesque potenti ridiculus natoque dui. Integer etiam luctus porttitor quisque eget porta metus. Fermentum amet at inceptos tempor taciti habitasse rhoncus senectus. Varius nascetur augue diam odio, mi condimentum senectus."
+        },
+        {
+            "title": "Neurophysiological dissection of these neurodegenerative diseases",
+            "picture": "src/assets/Electrophysiology.png",
+            "description":"Lorem ipsum odor amet, consectetuer adipiscing elit. Ad hac praesent facilisi velit nascetur justo ad facilisis. Ut iaculis enim etiam pellentesque potenti ridiculus natoque dui. Integer etiam luctus porttitor quisque eget porta metus. Fermentum amet at inceptos tempor taciti habitasse rhoncus senectus. Varius nascetur augue diam odio, mi condimentum senectus."
+        },
+        {
+            "title": "PET molecular imaging and therapeutics",
+            "picture": "src/assets/Clinical.png",
+            "description":"Lorem ipsum odor amet, consectetuer adipiscing elit. Ad hac praesent facilisi velit nascetur justo ad facilisis. Ut iaculis enim etiam pellentesque potenti ridiculus natoque dui. Integer etiam luctus porttitor quisque eget porta metus. Fermentum amet at inceptos tempor taciti habitasse rhoncus senectus. Varius nascetur augue diam odio, mi condimentum senectus."
+        }
+    ]
+}
