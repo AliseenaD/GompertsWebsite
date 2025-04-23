@@ -1,6 +1,36 @@
 {
     "publications": [
         {
+            "title": "APOE e4 Linked Effects on Neuropathology and Clinical Features in Dementia with Lewy Bodies (S1. 009)",
+            "authors": [
+                "R Ye",
+                "A Goodheart",
+                "E Peterec",
+                "S Gomperts"
+            ],
+            "journal": "Neurology 104 (7_Supplement_1), 4641, 2025",
+            "date": "2025",
+            "doi": "",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=VFNcOgoAAAAJ&sortby=pubdate&citation_for_view=VFNcOgoAAAAJ:xtRiw3GOFMkC"
+        },
+        {
+            "title": "Efficacy and Safety of the RewinD-LB Phase 2b Clinical Trial of Neflamapimod in Dementia With Lewy Bodies (DLB)(P8-3.002)",
+            "authors": [
+                "J Galvin",
+                "S Gomperts",
+                "L Honig",
+                "N Prins",
+                "A Gardner",
+                "K Blackburn",
+                "JP Taylor",
+                "..."
+            ],
+            "journal": "Neurology 104 (7_Supplement_1), 4007, 2025",
+            "date": "2025",
+            "doi": "",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=VFNcOgoAAAAJ&sortby=pubdate&citation_for_view=VFNcOgoAAAAJ:NhqRSupF_l8C"
+        },
+        {
             "title": "Association of sleep network functional connectivity with hyperexcitability and cognition in Alzheimer’s disease",
             "authors": [
                 "S Moguilner",
@@ -130,40 +160,6 @@
             "date": "2023",
             "doi": "",
             "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=VFNcOgoAAAAJ&sortby=pubdate&citation_for_view=VFNcOgoAAAAJ:70eg2SAEIzsC"
-        },
-        {
-            "title": "Low Dose Carbon Monoxide Is Neuroprotective in Models of Parkinson’s Disease (S42. 008)",
-            "authors": [
-                "S Gomperts",
-                "K Rose",
-                "Z Musab",
-                "X Xue",
-                "W Cai",
-                "S Lin",
-                "H Lee",
-                "E Gomperts",
-                "..."
-            ],
-            "journal": "Neurology 100 (17_supplement_2), 3833, 2023",
-            "date": "2023",
-            "doi": "",
-            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=VFNcOgoAAAAJ&sortby=pubdate&citation_for_view=VFNcOgoAAAAJ:NaGl4SEjCO4C"
-        },
-        {
-            "title": "Imaging regional histone deacetylase expression in dementia with Lewy bodies with [11C] Martinostat (P13-6.008)",
-            "authors": [
-                "A Goodheart",
-                "CH Yoo",
-                "R Striar",
-                "M Quan",
-                "HY Wey",
-                "C Wang",
-                "S Gomperts"
-            ],
-            "journal": "Neurology 100 (17_supplement_2), 4049, 2023",
-            "date": "2023",
-            "doi": "",
-            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=VFNcOgoAAAAJ&sortby=pubdate&citation_for_view=VFNcOgoAAAAJ:RGFaLdJalmkC"
         }
     ]
 }

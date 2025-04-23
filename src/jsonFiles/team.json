@@ -17,6 +17,24 @@
             "title": "Ph.D., Instructor",
             "biography": "Dr. Hanyan Li is an Instructor in Neurology at Massachusetts General Hospital and Harvard Medical School. Dr. Li has an interdisciplinary background in engineering and neuroscience. She earned her Ph.D. in Biomedical Engineering from Stevens Institute of Technology in Hoboken, NJ, where she focused on deep brain stimulation. She also holds an M.S. in Electrical and Computer Engineering from Drexel University in Philadelphia, PA, focusing on signal processing. Her algorithm of identifying the Substantia Nigra during intraoperative recordings has become a U.S. patent. Building on her expertise in neurophysiology and computational approaches, Hanyan joined Dr. Stephen Gomperts’ team at Massachusetts General Hospital, where she has since identified neurophysiological features associated with both early and late stages of Alzheimer’s disease. In her future work, she aims to uncover the causal mechanisms underlying the neural failure in Alzheimer’s disease, providing critical insights into memory impairments and dementia.",
             "photo": "src/assets/Hanyan.jpg"
+        },
+        {
+            "name": "Paula Ruth",
+            "title": "Ph.D., Instructor",
+            "biography": "",
+            "photo": ""
+        },
+        {
+            "name": "Yanhong Wang",
+            "title": "Ph.D.",
+            "biography": "",
+            "photo": ""
+        },
+        {
+            "name": "Zoey Vasilakos",
+            "title": "Research Technician I",
+            "biography": "",
+            "photo": ""
         }
     ],
     "Clinical Research": [
@@ -28,9 +46,21 @@
         },
         {
             "name": "Rong Ye",
-            "title": "Ph.D.",
+            "title": "Ph.D., Instructor",
             "biography": "I  am a postdoctoral research fellow specializing in neurodegenerative diseases. My current research focuses on exploring fluid and neuroimaging biomarkers for tracking and predicting the progression of Lewy body dementias. I hold a PhD in neuroscience from Zhejiang University and an MD from Wuhan University. Outside of work, I am an avid theatre enthusiastic. Additionally, I enjoy reading and hiking, both of which enrich my overall perspective on life and work.",
             "photo": "src/assets/Rong's Photo .jpg"
+        },
+        {
+            "name": "Erin Peterec",
+            "title": "Clinical Research Coordinator II",
+            "biography": "",
+            "photo": ""
+        },
+        {
+            "name": "Patrick Stancu",
+            "title": "Ph.D.",
+            "biography": "",
+            "photo": ""
         }
     ]
 }

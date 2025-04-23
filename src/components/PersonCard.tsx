@@ -7,9 +7,10 @@ import { TeamMember } from "../types";
  * @returns PersonCard component
  */
 export default function PersonCard({ name, title, biography, photo }: TeamMember) {
+    console.log(name, title, biography, photo);
     return(
         <Fade triggerOnce direction="up">
-            <div className="flex flex-col md:flex-row justify-center items-center gap-8 p-4 md:p-8">
+            <div className="flex flex-col md:flex-row justify-left items-center gap-8 p-4 md:p-8">
                 {
                     photo ? 
                     (
@@ -25,7 +26,11 @@ export default function PersonCard({ name, title, biography, photo }: TeamMember
                 }
                 <div className="flex flex-col gap-4">
                     <p className="text-text-main-color text-xl font-normal">{name}, {title}</p>
-                    <p className="text-secondary-text-color text-lg font-light">{biography}</p>
+                    {
+                        biography ? (
+                            <p className="text-secondary-text-color text-lg font-light">{biography}</p>
+                        ) : ''
+                    }
                 </div>
             </div>
         </Fade>
