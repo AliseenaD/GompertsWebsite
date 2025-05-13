@@ -14,7 +14,7 @@ export default function PublicationsScroll({ publications }: PublicationsProps) 
      * in a respective date key
      */
     const publicationsByYear = publications.reduce<Record<string, Publication[]>>((acc, publication) => {
-        const year = publication.date;
+        const year = publication.date!;
         if (!acc[year]) {
             acc[year] = [];
         }
@@ -36,8 +36,7 @@ export default function PublicationsScroll({ publications }: PublicationsProps) 
                     {publicationsByYear[year].map((article: Publication) => (
                         <PublicationCard key={article.title} 
                         title={article.title} authors={article.authors} 
-                        journal={article.journal} date={article.date}
-                        doi={article.doi} link={article.link} />
+                        journal={article.journal} link={article.link} />
                     ))}
                 </div>
             ))}

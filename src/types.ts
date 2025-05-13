@@ -5,8 +5,8 @@ export interface Publication {
     title: string;
     authors: string[];
     journal: string;
-    date: string;
-    doi: string;
+    date?: string;
+    doi?: string;
     link: string;
 }
 

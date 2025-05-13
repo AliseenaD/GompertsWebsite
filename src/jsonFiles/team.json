@@ -16,7 +16,7 @@
             "name": "Hanyan Li",
             "title": "Ph.D., Instructor",
             "biography": "Dr. Hanyan Li is an Instructor in Neurology at Massachusetts General Hospital and Harvard Medical School. Dr. Li has an interdisciplinary background in engineering and neuroscience. She earned her Ph.D. in Biomedical Engineering from Stevens Institute of Technology in Hoboken, NJ, where she focused on deep brain stimulation. She also holds an M.S. in Electrical and Computer Engineering from Drexel University in Philadelphia, PA, focusing on signal processing. Her algorithm of identifying the Substantia Nigra during intraoperative recordings has become a U.S. patent. Building on her expertise in neurophysiology and computational approaches, Hanyan joined Dr. Stephen Gomperts’ team at Massachusetts General Hospital, where she has since identified neurophysiological features associated with both early and late stages of Alzheimer’s disease. In her future work, she aims to uncover the causal mechanisms underlying the neural failure in Alzheimer’s disease, providing critical insights into memory impairments and dementia.",
-            "photo": "src/assets/Hanyan.jpg"
+            "photo": ""
         },
         {
             "name": "Paula Ruth",
@@ -42,13 +42,13 @@
             "name": "Anna Goodheart",
             "title": "M.D.",
             "biography": "Anna joined the Gomperts group in 2015 when she first came to MGH as a medical intern. After residency and fellowship, she joined the Neurology faculty in 2021. Her research background is in human molecular neuroimaging, and she has worked with Dr. Gomperts on PET imaging studies in the Lewy body and atypical parkinsonian diseases. Her other research interests include imaging and non-imaging biomarkers, epidemiology, and clinical trials. Clinically, she cares for patients with Parkinson’s disease, Alzheimer’s disease, and dementia with Lewy bodies in the MGH Neurology clinics. A New England native, she enjoys the outdoors in all seasons, and outside of work you can probably find her running on the Esplanade or up in the White Mountains of New Hampshire, where she volunteers as a backcountry hiking and backpacking trip leader for the Appalachian Mountain Club.",
-            "photo": "src/assets/Anna.jpg"
+            "photo": ""
         },
         {
             "name": "Rong Ye",
             "title": "Ph.D., Instructor",
             "biography": "I  am a postdoctoral research fellow specializing in neurodegenerative diseases. My current research focuses on exploring fluid and neuroimaging biomarkers for tracking and predicting the progression of Lewy body dementias. I hold a PhD in neuroscience from Zhejiang University and an MD from Wuhan University. Outside of work, I am an avid theatre enthusiastic. Additionally, I enjoy reading and hiking, both of which enrich my overall perspective on life and work.",
-            "photo": "src/assets/Rong's Photo .jpg"
+            "photo": ""
         },
         {
             "name": "Erin Peterec",

@@ -8,7 +8,7 @@ import { LiaGlobeSolid } from "react-icons/lia";
  * @param param0 Article information including title, authors, journal, date, doi, and link.
  * @returns SingularPublication component
  */
-export default function PublicationCard({ title, authors, journal, date, doi, link }: Publication) {
+export default function PublicationCard({ title, authors, journal, link }: Publication) {
     const authorsString = authors.join(', ').replace(', ...', '');
     
     return(
