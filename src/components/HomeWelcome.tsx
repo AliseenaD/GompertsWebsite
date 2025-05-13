@@ -1,5 +1,4 @@
 import { Fade } from "react-awesome-reveal";
-import GomportsPhoto from "../assets/gomperts.jpeg";
 import CustomButton from "./CustomButton";
 
 /**
@@ -24,7 +23,7 @@ export default function HomeWelcome() {
                     <CustomButton link="/research" title="Research" />
                 </div>
                 <div className="w-full p-5 flex justify-center items-center md:w-1/3 md:p-10">
-                    <img src={GomportsPhoto} alt="Gomperts Photo" className="w-[60%] h-auto rounded-full shadow-sm md:w-[90%]"></img>
+                    <img src="https://gompertslab.mgh.harvard.edu/wp-content/uploads/2025/05/gomperts.jpeg" alt="Gomperts Photo" className="w-[60%] h-auto rounded-full shadow-sm md:w-[90%]"></img>
                 </div>
             </div>
         </Fade>

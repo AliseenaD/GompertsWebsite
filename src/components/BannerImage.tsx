@@ -1,6 +1,5 @@
 import { useEffect, useRef, useState } from "react";
 import { Fade } from "react-awesome-reveal";
-import image from "../assets/BannerImage2.jpg";
 import { BannerImageProps } from "../types";
 
 /**
@@ -80,7 +79,7 @@ export default function BannerImage({ title }: BannerImageProps) {
                 <div 
                     className="absolute inset-0 w-full h-[120%] bg-cover bg-center"
                     style={{
-                        backgroundImage: `url(${image})`,
+                        backgroundImage: `url(https://gompertslab.mgh.harvard.edu/wp-content/uploads/2025/05/BannerImage2.png)`,
                         transform: `translateY(${translateY}px)`,
                         transition: 'transform 0.1s ease-out',
                         height: '150%',

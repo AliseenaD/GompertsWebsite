@@ -1,5 +1,4 @@
 import { Fade } from "react-awesome-reveal";
-import MGHLogo from "../assets/MGH.png";
 import { useEffect, useState } from "react";
 
 /**
@@ -27,7 +26,7 @@ export default function Footer() {
         <Fade triggerOnce direction="up">
             <div className="mt-8 w-full h-[250px] bg-secondary-container-color flex justify-between items-center">
                 {windowWidth > 767 ? (
-                    <img src={MGHLogo} alt="MGH Logo" style={{height: '200px'}} className="px-16"></img>    
+                    <img src={"https://gompertslab.mgh.harvard.edu/wp-content/uploads/2025/05/MGH.png"} alt="MGH Logo" style={{height: '200px'}} className="px-16"></img>    
                 ) : ''}
                 <div className="text-md px-4 md:text-lg md:px-16 text-text-blue">
                     <p>Mass General Institute for Neurodegenerative Disease</p>
