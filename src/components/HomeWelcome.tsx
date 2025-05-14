@@ -13,7 +13,7 @@ export default function HomeWelcome() {
                     <p className="uppercase text-main-color font-bold text-4xl">
                         Welcome
                     </p>
-                    <p className="font-light mt-4 text-lg">Dr. Gomperts’s basic and clinical research focuses on Parkinson’s disease, dementia with Lewy bodies, 
+                    <p className="font-light mt-4 text-lg">Dr. Gomperts’ basic and clinical research focuses on Parkinson’s disease, dementia with Lewy bodies, 
                         and Alzheimer’s disease. In human studies, he is working to understand the causes of cognitive impairment 
                         that can arise in these diseases with PET imaging of pathogenic processes, such as the accumulation of beta-amyloid 
                         and tau and the loss of dopamine neurons projecting to brain regions that subserve cognition. In animal models, 
