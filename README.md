@@ -26,7 +26,7 @@ To start a local development server with hot module replacement:
 npm run dev
 ```
 Then enter the link provided to you on the terminal.
-> ⚠️ **Note:**Some images and text may not load correctly during local development due to CORS or domain-based content restrictions from the lab’s WordPress instance.
+> ⚠️ **Note:** Some images and text may not load correctly during local development due to CORS or domain-based content restrictions from the lab’s WordPress instance.
 
 ## Building for Production
 
