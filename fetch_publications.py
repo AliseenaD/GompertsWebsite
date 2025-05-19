@@ -44,7 +44,7 @@ try:
         formatted_papers.append(structured_pub)
 
     # Create output data structure and save to the json file
-    output_file = "src/jsonFiles/allPublications.json"
+    output_file = "allPublications.json"
     output_data = {
         "publications": formatted_papers
     }
