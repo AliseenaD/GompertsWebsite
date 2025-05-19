@@ -28,6 +28,10 @@ npm run dev
 Then enter the link provided to you on the terminal.
 > ⚠️ **Note:** Some images and text may not load correctly during local development due to CORS or domain-based content restrictions from the lab’s WordPress instance.
 
+## Updating Publications
+
+To update the list of publications without manually editing each entry in the JSON file located on the WordPress site, run the `fetch_publications.py` script located in this directory. This will generate a new `allPublications.json` file, which you can then upload to the WordPress site to replace the existing one. The updated file should include publications from the two most recent years.
+
 ## Building for Production
 
 To generate an optimized build:
